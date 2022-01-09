@@ -2,7 +2,7 @@
 
 I really love technology and problem solving, and that is the main reason why I choose computer science. I love working with both back-end and front-end web development even though I am still on my way learning lots of them. I always try my best to learn and bring the best approach to my projects. 
 
-If you want to get in touch, you can find me on [Linkedin](https://www.linkedin.com/in/jayden-le/) or my email nhukhang1102@gmail.com
+If you want to get in touch, you can find me on [Linkedin](https://www.linkedin.com/in/jayden-le/) or my [email](nhukhang1102@gmail.com)
 
 
 <!--
