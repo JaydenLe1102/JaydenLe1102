@@ -1,4 +1,4 @@
-## Hi there! I am Jayden Le, a sophomore Computer Science Student at UC Irvine.
+## Hi there! I am Jayden Le, a Junior Full-stack Software Engineer.
 
 I really love technology and problem solving, and that is the main reason why I choose computer science. I love working with both back-end and front-end web development even though I am still on my way learning lots of them. I always try my best to learn and make the best product that I can. 
 
