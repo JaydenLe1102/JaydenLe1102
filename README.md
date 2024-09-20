@@ -1,21 +1,25 @@
-## Hi there! I am Jayden Le, a Junior Full-stack Software Engineer.
+# Trinh Nhu Khang (Jayden) Le
 
-I really love technology and problem solving, and that is the main reason why I choose computer science. I love working with both back-end and front-end web development even though I am still on my way learning lots of them. I always try my best to learn and make the best product that I can. 
+👨‍💻 Full Stack Developer | 🎓 Computer Science @ UC Irvine
 
-If you want to get in touch, you can find me on [Linkedin](https://www.linkedin.com/in/jayden-le/) or my [email](mailto:nhukhang1102@gmail.com)
+With 2 years of professional experience, I'm a detail-oriented developer passionate about creating efficient, scalable, and aesthetically pleasing applications. My expertise spans:
 
+- 🌐 **Full stack development:**
+  - Frontend: React, Vue, Angular, TypeScript
+  - Backend: Express, Spring Boot, Node.js, Python (Flask, Django)
+- 🗄️ **Database management:**
+  - SQL: MySQL, PostgreSQL
+  - NoSQL: MongoDB, Cassandra, DynamoDB
+- 🏗️ **System Architecture:**
+  - Load balancing
+  - Primary-secondary database configurations
+  - Horizontal scaling
+  - High-availability systems
+- ☁️ **Cloud computing and DevOps** (AWS, Docker)
+- 📊 **Data-driven solutions** and performance optimization
+- 🎨 **UI/UX design** with a focus on user experience
+- 🔄 **Agile methodologies** and thriving under pressure
 
-<!--
-**JaydenLe1102/JaydenLe1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love tackling complex problems, optimizing system performance, and building robust, scalable applications. My experience with advanced system architecture allows me to design and implement high-performance solutions that can handle growing demands. Always eager to learn and adapt to new technologies in this ever-evolving field!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's connect and create something amazing together! 🚀
