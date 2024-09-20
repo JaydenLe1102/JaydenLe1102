@@ -1,5 +1,4 @@
 # Trinh Nhu Khang (Jayden) Le
-
 👨‍💻 Full Stack Developer | 🎓 Computer Science @ UC Irvine
 
 With 2 years of professional experience, I'm a detail-oriented developer passionate about creating efficient, scalable, and aesthetically pleasing applications. My expertise spans:
@@ -7,6 +6,13 @@ With 2 years of professional experience, I'm a detail-oriented developer passion
 - 🌐 **Full stack development:**
   - Frontend: React, Vue, Angular, TypeScript
   - Backend: Express, Spring Boot, Node.js, Python (Flask, Django)
+- 📱 **Mobile development:**
+  - iOS: Swift
+  - Android: Kotlin
+- 🧠 **Machine Learning:**
+  - Image processing and augmentation
+  - Deep learning models (UNet, CNN, ResNet, DeepLabv3)
+  - Semantic segmentation
 - 🗄️ **Database management:**
   - SQL: MySQL, PostgreSQL
   - NoSQL: MongoDB, Cassandra, DynamoDB
@@ -20,6 +26,6 @@ With 2 years of professional experience, I'm a detail-oriented developer passion
 - 🎨 **UI/UX design** with a focus on user experience
 - 🔄 **Agile methodologies** and thriving under pressure
 
-I love tackling complex problems, optimizing system performance, and building robust, scalable applications. My experience with advanced system architecture allows me to design and implement high-performance solutions that can handle growing demands. Always eager to learn and adapt to new technologies in this ever-evolving field!
+I love tackling complex problems, optimizing system performance, and building robust, scalable applications. My experience with advanced system architecture and machine learning allows me to design and implement high-performance solutions that can handle growing demands and leverage AI capabilities. Always eager to learn and adapt to new technologies in this ever-evolving field!
 
 Let's connect and create something amazing together! 🚀
